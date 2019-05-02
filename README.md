@@ -5,5 +5,6 @@ Credit to Author: This app was developed as part of a follow along exercise demo
 
 
 To run this app:
-1) Clone this project to your local machine and update using yarn to install the dependencies
-2) Run - yarn run webpack-dev-server
+1) Clone/download this project to your local machine 
+2) Install the dependencies using the command - yarn install
+3) Run the application - yarn run webpack-dev-server
